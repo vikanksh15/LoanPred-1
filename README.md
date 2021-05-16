@@ -1,6 +1,7 @@
 # LoanPred
 A Flask-based web application for people to find out if they are eligible for a loan or not.
 
+<<<<<<< updation
 # Contributors:
 This project was made as submission for a college course. It was made by me and my good friend/coder <b>Nimesh Shrivastava</b>. Link to his Git-Hub profile is <a href="https://github.com/Nimesh-Srivastava">here.
 
@@ -16,6 +17,20 @@ To automate this process, we have created a web application, in which the user h
 </p> 
   
 
+=======
+# Motivation:
+<p>
+Banks and Lending Instituitions have been around almost since the dawn of time. Well, OK, not that long. But people have been borrowing and lending money for centuries. If you look at it in its simplest terms, someone wants to borrow money, someone has money they wish to lend. You take out a loan from the lender, terms are discussed such as how long you will be paying the loan back, and at what rate of interest.
+</p>
+<p>
+Although, the process of getting a loan is very tedious. People need to submit their application form, then wait for 1-2 days till the loaning committee accpets the application. then, we get the loan.
+</p> 
+<p>
+To automate this process, we have created a web application, in which the user has to just enter the required fields, and within seconds, he/she will get to know if they are eligible for a loan or not.
+</p> 
+  
+
+>>>>>>> main
 # Tech Stack Used:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -37,6 +52,7 @@ If you want an in-depth explaination on random Forest and how do they work, feel
 
 
 # Screenshots:
+<<<<<<< updation
 ![](https://github.com/JackJJCodes/LoanPred/blob/main/static/img/lp1.png)
 <br>
 ![](https://github.com/JackJJCodes/LoanPred/blob/main/static/img/lp2.png)
@@ -48,6 +64,20 @@ If you want an in-depth explaination on random Forest and how do they work, feel
 1. Adding recommendation feature, so that a user would get the name of the banks willing to give them a loan.
 
 <br>
+=======
+
+
+# Demo Video:
+<div align="center">
+   
+</div>
+
+
+# Issues:
+ 1. The designing part of the web application is in a bit of mess😅.
+ 2. The UI could be improved.
+ 3. The web application is a bit slow during rendering. So anything to help speed up rendering would be great. 
+>>>>>>> main
 
 #### To run this on your machine:
 1. Make sure you have Python3, Flask installed.
