@@ -1,5 +1,3 @@
-<img align="right" src="https://github.com/Jackson-hub/CROPify/blob/main/static/images/logo.png" width="100" height="100">
-
 # LoanPred
 A Flask-based web application for people to find out if they are eligible for a loan or not.
 
@@ -33,9 +31,6 @@ I have used a variety of algorithms for this problem, namely Logistic Regression
 <br>
 For me, Random Forest has worked wonders, as it gave me 79% accuracy.
 If you want an in-depth explaination on random Forest and how do they work, feel free to checkout <a href = "https://towardsdatascience.com/understanding-random-forest-58381e0602d2">this article</a>. 
-<br>
-![](https://github.com/Jackson-hub/CROPify/blob/main/static/images/comparisionCROPify.png)
-<br>
 
 
 # Screenshots:
