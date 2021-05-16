@@ -1,0 +1,7 @@
+    {% if output == 0 %}
+    <img class="final-output-image" src="/static/img/not_eligible.jpg" alt="not_eligible">
+
+    {% else %}
+    <img src="/static/img/eligible.jpg" class="final-output-image" alt="eligible">
+
+    {{ % endif % }}
