@@ -37,7 +37,6 @@ If you want an in-depth explaination on random Forest and how do they work, feel
 
 
 # Screenshots:
-<<<<<<< updation
 ![](https://github.com/JackJJCodes/LoanPred/blob/main/static/img/lp1.png)
 <br>
 <br>
