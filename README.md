@@ -3,7 +3,7 @@ A Flask-based web application for people to find out if they are eligible for a 
 
 
 # Contributors:
-This project was made as submission for a college course. It was made by me and my good friend/coder <b>Nimesh Srivastava</b>. Link to his Git-Hub profile is <a href="https://github.com/Nimesh-Srivastava">here.
+This project was made as submission for a college course. It was made by me and my good friend/coder <b>Nimesh Srivastava</b>. Link to his Git-Hub profile is <a href="https://github.com/Nimesh-Srivastava">here</a>.
 
 # Motivation:
 <p>
@@ -30,10 +30,9 @@ To automate this process, we have created a web application, in which the user h
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
 
 # Algorithms Used:
-I have used a variety of algorithms for this problem, namely Logistic Regression, Decision Trees, SVM, Random Forest to name a few.
+I have tried using many algorithms for this problem, but Random Forest seemed to work the best for me. It gave me an accuracy of nearly 80%.
 <br>
-For me, Random Forest has worked wonders, as it gave me 79% accuracy.
-If you want an in-depth explaination on random Forest and how do they work, feel free to checkout <a href = "https://towardsdatascience.com/understanding-random-forest-58381e0602d2">this article</a>. 
+If you want an in-depth explanation of Random Forest, feel free to check out <a href = "https://towardsdatascience.com/understanding-random-forest-58381e0602d2">this</a> article. 
 
 
 # Screenshots:
