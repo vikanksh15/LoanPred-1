@@ -10,7 +10,7 @@ This project was made as submission for a college course. It was made by me and 
 Banks and Lending Instituitions have been around almost since the dawn of time. Well, OK, not that long. But people have been borrowing and lending money for centuries. If you look at it in its simplest terms, someone wants to borrow money, someone has money they wish to lend. You take out a loan from the lender, terms are discussed such as how long you will be paying the loan back, and at what rate of interest.
 </p>
 <p>
-Although, the process of getting a loan is very tedious. People need to submit their application form, then wait for 1-2 days till the loaning committee accpets the application. then, we get the loan.
+Although, the process of getting a loan is very tedious. People need to submit their application form, then wait for 1-2 days till the loaning committee accepts the application. then, we get the loan.
 </p> 
 <p>
 To automate this process, we have created a web application, in which the user has to just enter the required fields, and within seconds, he/she will get to know if they are eligible for a loan or not.
