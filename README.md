@@ -3,7 +3,13 @@ A Flask-based web application for people to find out if they are eligible for a 
 
 
 # Contributors:
-This project was made as submission for a college course. It was made by me and my good friend/coder <b>Nimesh Srivastava</b>. Link to his GitHub profile is <a href="https://github.com/Nimesh-Srivastava">here</a>.
+This Project was built by-
+
+🧑‍💻[Vikanksh](https://github.com/vikanksh15)
+
+🧑‍💻[Nimesh](https://github.com/Nimesh-Srivastava)
+
+🧑‍💻[Jackson Jacob](https://github.com/JackJJCodes)
 
 # Motivation:
 <p>
